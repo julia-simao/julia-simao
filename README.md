@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**julia-simao/julia-simao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é julia simao
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem ingles
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo :mailbox
+
+00001126433846sp@educacso.sp.gov.br
+ttk-loirinha.777
+@juliaaraujo_es
+@daily.ajulinha
+![serena-van-der-woodsen-blake-lively](https://github.com/user-attachments/assets/263365b2-d24e-4105-818c-655776bc9c55)
